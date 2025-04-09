@@ -65,48 +65,48 @@
 <!-- Architecture Section -->
 <section class="relative bg-[#800020] py-10 pb-20 px-6 md:px-20 text-center">
     <h2 class="text-4xl md:text-5xl mb-10 text-[#FFD700] font-imperial italic tracking-wider">
-        Architectural Marvels
+        Merveilles Architecturales
     </h2>
     <div class="grid md:grid-cols-3 gap-8">
         <!-- Card 1 -->
-        <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
+        <a href="/chambres/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-neutral-800 rounded-t-xl shadow-lg flex-grow">
-                <h3 class="text-2xl mb-2 text-yellow-400">Hall of Mirrors</h3>
-                <p>A reflection of splendor and light, where royalty once gathered in celebration. The grandeur of this hall reflects the magnificence of the past.</p>
+                <h3 class="text-2xl mb-2 text-yellow-400">Chambres Royales</h3>
+                <p>Des espaces luxueux où la royauté vivait et régnait. Chaque chambre reflète l'élégance et la grandeur, avec des détails architecturaux qui incarnent la puissance et le raffinement de l'époque royale.</p>
             </div>
             <div class="overflow-hidden rounded-b-xl">
-                <img src="images/test.png" alt="Hall of Mirrors" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+                <img src="images/chambres-royales-1.png" alt="Chambres Royales" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                <button class="bg-yellow-400 text-[#800020] px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+                <button class="bg-yellow-400 text-[#800020] px-6 py-2 rounded-full text-lg shadow-md">Explorer</button>
             </div>
         </a>
 
         <!-- Card 2 -->
         <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-neutral-800 rounded-t-xl shadow-lg flex-grow">
-                <h3 class="text-2xl mb-2 text-yellow-400">Royal Gardens</h3>
-                <p>Symmetrical perfection and living artistry, crafted to inspire awe and serenity. The gardens are meticulously designed to showcase the beauty of nature and architecture combined in perfect harmony.</p>
+                <h3 class="text-2xl mb-2 text-yellow-400">Tours Intemporelles</h3>
+                <p>Des tours majestueuses qui défient le temps, offrant des vues impressionnantes et représentant l'innovation architecturale de chaque époque. Chaque tour est un témoignage de la maîtrise de l'architecture à travers les âges.</p>
             </div>
             <div class="overflow-hidden rounded-b-xl">
-                <img src="images/test.png" alt="Royal Gardens" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+                <img src="images/test.png" alt="Tours Intemporelles" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                <button class="bg-yellow-400 text-[#800020] px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+                <button class="bg-yellow-400 text-[#800020] px-6 py-2 rounded-full text-lg shadow-md">Explorer</button>
             </div>
         </a>
 
         <!-- Card 3 -->
         <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-neutral-800 rounded-t-xl shadow-lg flex-grow">
-                <h3 class="text-2xl mb-2 text-yellow-400">The Grand Staircase</h3>
-                <p>A noble ascent, where every step echoes with the footsteps of history. This staircase has witnessed countless moments of grandeur and triumph, representing the architectural brilliance of its time.</p>
+                <h3 class="text-2xl mb-2 text-yellow-400">Le Grand Escalier</h3>
+                <p>Une ascension noble, où chaque pas résonne des échos de l'histoire. Cet escalier a été témoin de nombreux moments de grandeur et de triomphe, représentant l'ingéniosité architecturale de son époque.</p>
             </div>
             <div class="overflow-hidden rounded-b-xl">
-                <img src="images/test.png" alt="The Grand Staircase" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+                <img src="images/test.png" alt="Le Grand Escalier" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                <button class="bg-yellow-400 text-[#800020] px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+                <button class="bg-yellow-400 text-[#800020] px-6 py-2 rounded-full text-lg shadow-md">Explorer</button>
             </div>
         </a>
     </div>
@@ -127,47 +127,47 @@
 <!-- Events Section -->
 <section class="bg-neutral-900 py-10  pb-20 px-6 md:px-20 text-center">
     <h2 class="text-4xl md:text-5xl mb-10 text-[#FFD700] font-imperial italic tracking-wider">
-    Evenings & Events
+        Evenings & Events
     </h2>
     <div class="grid md:grid-cols-3 gap-8">
         <!-- Card 1 -->
         <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
-                <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
-                    <h3 class="text-2xl mb-2 text-yellow-400">Candlelight Tour</h3>
-                    <p>Step into the palace after dark and discover its mysteries by flickering light.</p>
-                </div>
-                <div class="overflow-hidden rounded-b-xl">
-                    <img src="images/test.png" alt="Candlelight Tour" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
-                </div>
-                <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                    <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
-                </div>
+            <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
+                <h3 class="text-2xl mb-2 text-yellow-400">Candlelight Tour</h3>
+                <p>Step into the palace after dark and discover its mysteries by flickering light.</p>
+            </div>
+            <div class="overflow-hidden rounded-b-xl">
+                <img src="images/test.png" alt="Candlelight Tour" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+            </div>
+            <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
+                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+            </div>
         </a>
         <!-- Card 2 -->
         <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
-                <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
-                    <h3 class="text-2xl mb-2 text-yellow-400">Baroque Concert</h3>
-                    <p>Enjoy classical music as it was meant to be heard – in majestic halls of old.</p>
-                </div>
-                <div class="overflow-hidden rounded-b-xl">
-                    <img src="images/test.png" alt="Baroque Concert" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
-                </div>
-                <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                    <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
-                </div>
+            <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
+                <h3 class="text-2xl mb-2 text-yellow-400">Baroque Concert</h3>
+                <p>Enjoy classical music as it was meant to be heard – in majestic halls of old.</p>
+            </div>
+            <div class="overflow-hidden rounded-b-xl">
+                <img src="images/test.png" alt="Baroque Concert" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+            </div>
+            <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
+                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+            </div>
         </a>
         <!-- Card 3 -->
         <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
-                <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
-                    <h3 class="text-2xl mb-2 text-yellow-400">Garden Illumination</h3>
-                    <p>Wander through glowing paths and fountains in an enchanting night display.</p>
-                </div>
-                <div class="overflow-hidden rounded-b-xl">
-                    <img src="images/test.png" alt="Garden Illumination" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
-                </div>
-                <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                    <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
-                </div>
+            <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
+                <h3 class="text-2xl mb-2 text-yellow-400">Garden Illumination</h3>
+                <p>Wander through glowing paths and fountains in an enchanting night display.</p>
+            </div>
+            <div class="overflow-hidden rounded-b-xl">
+                <img src="images/test.png" alt="Garden Illumination" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+            </div>
+            <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
+                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+            </div>
         </a>
     </div>
 </section>
