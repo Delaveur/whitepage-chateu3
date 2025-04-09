@@ -24,11 +24,11 @@
 <section id="about" class="relative bg-[#800020] py-10 px-6 md:px-20 text-center">
     <h2 class="text-5xl md:text-6xl text-center mb-12 text-[#FFD700] font-imperial italic tracking-wider"
         style="text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3), 0 0 15px rgba(255, 215, 0, 0.8);">
-        The Legacy
+        L'Héritage
     </h2>
     <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-12 items-center pb-10">
-        <p class="text-lg leading-relaxed">Nestled in the heart of timeless history, our palace offers a glimpse into the grandeur of a bygone era. Walk through its halls and experience the art, architecture, and atmosphere once reserved for royalty.</p>
-        <img src="/images/test.png" alt="Interior" class="rounded-2xl shadow-lg" />
+        <p class="text-lg leading-relaxed">Niché au cœur de l'histoire intemporelle, notre palais offre un aperçu de la grandeur d'une époque révolue. Parcourez ses couloirs et vivez l'art, l'architecture et l'atmosphère autrefois réservés à la royauté.</p>
+        <img src="/images/legacy.png" alt="Interior" class="rounded-2xl shadow-lg" />
     </div>
     <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0] z-10 bg-[#800020]">
         <svg viewBox="0 0 1440 50" fill="none" xmlns="http://www.w3.org/2000/svg">
