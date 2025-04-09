@@ -118,7 +118,7 @@
                     <a href="/preparer-ma-visite/" class="hover:text-[#FFD700] transition-colors">Préparer ma visite</a>
                     <a href="/preparer-ma-visite/informations-pratiques/" class="hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
                     <a href="/preparer-ma-visite/billets-tarifs/" class="hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
-                    <a href="/#explorer" class="hover:text-[#FFD700] transition-colors">Explorer</a>
+                    <a href="/actualites/agenda-chateau-versailles/" class="hover:text-[#FFD700] transition-colors">Agenda</a>
                     <a href="/#contacts" class="hover:text-[#FFD700] transition-colors">Contacts</a>
                 </div>
                 <!-- Mobile button -->
@@ -149,7 +149,7 @@
             <a href="/preparer-ma-visite/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Préparer ma visite</a>
             <a href="/preparer-ma-visite/informations-pratiques/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
             <a href="/preparer-ma-visite/billets-tarifs/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
-            <a href="/#explorer" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Explorer</a>
+            <a href="/actualites/agenda-chateau-versailles/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Agenda</a>
             <a href="/#contacts" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Contacts</a>
         </div>
     </nav>
