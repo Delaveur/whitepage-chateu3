@@ -97,13 +97,13 @@
         </a>
 
         <!-- Card 3 -->
-        <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
+        <a href="/escalier/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-neutral-800 rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Le Grand Escalier</h3>
                 <p>Une ascension noble, où chaque pas résonne des échos de l'histoire. Cet escalier a été témoin de nombreux moments de grandeur et de triomphe, représentant l'ingéniosité architecturale de son époque.</p>
             </div>
             <div class="overflow-hidden rounded-b-xl">
-                <img src="images/test.png" alt="Le Grand Escalier" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+                <img src="images/escalier-1.png" alt="Le Grand Escalier" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
                 <button class="bg-yellow-400 text-[#800020] px-6 py-2 rounded-full text-lg shadow-md">Explorer</button>
