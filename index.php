@@ -127,7 +127,7 @@
 <!-- Events Section -->
 <section class="bg-neutral-900 py-10  pb-20 px-6 md:px-20 text-center">
     <h2 class="text-4xl md:text-5xl mb-10 text-[#FFD700] font-imperial italic tracking-wider">
-        Evenings & Events
+    Soirées & Événements
     </h2>
     <div class="grid md:grid-cols-3 gap-8">
         <!-- Card 1 -->
@@ -137,7 +137,7 @@
                 <p>Pénétrez dans le palais à la tombée de la nuit et découvrez ses mystères à la lueur vacillante des bougies.</p>
             </div>
             <div class="overflow-hidden rounded-b-xl">
-                <img src="images/candlelight-1.png" alt="Candlelight Tour" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+                <img src="images/candlelight-1.png" alt="Visite aux Chandelles" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
                 <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
@@ -146,11 +146,11 @@
         <!-- Card 2 -->
         <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
-                <h3 class="text-2xl mb-2 text-yellow-400">Baroque Concert</h3>
-                <p>Enjoy classical music as it was meant to be heard – in majestic halls of old.</p>
+                <h3 class="text-2xl mb-2 text-yellow-400">Concert Baroque</h3>
+                <p>Savourez la musique classique telle qu’elle était destinée à être entendue – dans les majestueuses salles d’antan.</p>
             </div>
             <div class="overflow-hidden rounded-b-xl">
-                <img src="images/test.png" alt="Baroque Concert" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+                <img src="images/concert-2.png" alt="Concert Baroque" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
                 <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
