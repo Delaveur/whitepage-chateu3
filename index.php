@@ -144,7 +144,7 @@
             </div>
         </a>
         <!-- Card 2 -->
-        <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
+        <a href="/baroque/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Concert Baroque</h3>
                 <p>Savourez la musique classique telle qu’elle était destinée à être entendue – dans les majestueuses salles d’antan.</p>
@@ -157,13 +157,13 @@
             </div>
         </a>
         <!-- Card 3 -->
-        <a href="/detail-page" class="relative group cursor-pointer flex flex-col">
+        <a href="/jardins/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
-                <h3 class="text-2xl mb-2 text-yellow-400">Garden Illumination</h3>
-                <p>Wander through glowing paths and fountains in an enchanting night display.</p>
+                <h3 class="text-2xl mb-2 text-yellow-400">Illumination des Jardins</h3>
+                <p>Flânez à travers des allées illuminées et des fontaines scintillantes dans une mise en scène nocturne enchanteresse.</p>
             </div>
             <div class="overflow-hidden rounded-b-xl">
-                <img src="images/test.png" alt="Garden Illumination" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
+                <img src="images/illumination-1.png" alt="Illumination des Jardins" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
                 <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
