@@ -1,7 +1,6 @@
 <?php
 $page_title = "Chambres Royales";
 include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
-<section class="px-6 md:px-20 py-20 space-y-16 text-xl">
 
 <section class="px-6 md:px-20 py-20 space-y-16 text-xl">
 
