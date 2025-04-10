@@ -10,7 +10,7 @@
         <ul class="space-y-2">
           <li><a href="/" class="hover:text-[#FFD700]">Page principale</a></li>
           <li><a href="/decouvrir/histoire/" class="hover:text-[#FFD700]">À propos</a></li>
-          <li><a href="/#contacts" class="hover:text-[#FFD700]">Contacts</a></li>
+          <li><a href="/contact-us/" class="hover:text-[#FFD700]">Contacts</a></li>
           <li><a href="/privacy.php" class="hover:text-[#FFD700]">Politique de confidentialité</a></li>
           <li><a href="/terms.php" class="hover:text-[#FFD700]">Conditions d'utilisation</a></li>
         </ul>

@@ -119,7 +119,7 @@
                     <a href="/preparer-ma-visite/informations-pratiques/" class="hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
                     <a href="/preparer-ma-visite/billets-tarifs/" class="hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
                     <a href="/actualites/agenda-chateau-versailles/" class="hover:text-[#FFD700] transition-colors">Agenda</a>
-                    <a href="/#contacts" class="hover:text-[#FFD700] transition-colors">Contacts</a>
+                    <a href="/contact-us/" class="hover:text-[#FFD700] transition-colors">Contacts</a>
                 </div>
                 <!-- Mobile button -->
                 <button
@@ -150,17 +150,17 @@
             <a href="/preparer-ma-visite/informations-pratiques/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
             <a href="/preparer-ma-visite/billets-tarifs/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
             <a href="/actualites/agenda-chateau-versailles/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Agenda</a>
-            <a href="/#contacts" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Contacts</a>
+            <a href="/contact-us/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Contacts</a>
         </div>
     </nav>
     <!-- Secondary Navigation -->
     <nav class="bg-[#800020] text-yellow-200 w-full px-4 py-4">
         <div class="max-w-screen-xl mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 text-center text-sm font-medium tracking-wide">
-            <a href="/page-1" class="hover:text-white transition-colors">Galeries</a>
-            <a href="/page-2" class="hover:text-white transition-colors">Événements</a>
-            <a href="/page-3" class="hover:text-white transition-colors">Art & Décor</a>
-            <a href="/page-4" class="hover:text-white transition-colors">Visites guidées</a>
-            <a href="/page-5" class="hover:text-white transition-colors">Collections</a>
-            <a href="/page-6" class="hover:text-white transition-colors">Expérience</a>
+            <a href="/chambres/" class="hover:text-white transition-colors">Chambres Royales</a>
+            <a href="/tours/" class="hover:text-white transition-colors">Tours Intemporelles</a>
+            <a href="/escalier/" class="hover:text-white transition-colors">Le Grand Escalier</a>
+            <a href="/chandelles/" class="hover:text-white transition-colors">Visite aux Chandelles</a>
+            <a href="/baroque/" class="hover:text-white transition-colors">Concert Baroque</a>
+            <a href="/jardins/" class="hover:text-white transition-colors">Illumination des Jardins</a>
         </div>
     </nav>

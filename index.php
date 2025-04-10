@@ -6,9 +6,9 @@
     </video>
     <div class="absolute inset-0 bg-black bg-opacity-50 z-10"></div>
     <div class="z-20 px-4">
-        <h1 class="text-4xl md:text-7xl font-bold mb-6">Timeless Elegance</h1>
-        <p class="text-lg md:text-2xl mb-8">A Journey Through Grandeur and Heritage</p>
-        <a href="#about" class="inline-block px-6 py-3 bg-yellow-500 text-neutral-900 font-semibold rounded-xl transition hover:bg-yellow-400">Explore Now</a>
+        <h1 class="text-4xl md:text-7xl font-bold mb-6">Élégance Intemporelle</h1>
+        <p class="text-lg md:text-2xl mb-8">Un voyage à travers la grandeur et l’héritage</p>
+        <a href="/decouvrir/histoire/" class="inline-block px-6 py-3 bg-yellow-500 text-neutral-900 font-semibold rounded-xl transition hover:bg-yellow-400">Découvrir Maintenant</a>
     </div>
     <!-- SVG Transition at bottom of Hero -->
     <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0] z-10">
@@ -43,15 +43,15 @@
 <section class="relative bg-[#262626] pt-8 pb-20 px-6 md:px-20 z-0">
     <h2 class="text-5xl md:text-6xl text-center mb-12 text-[#FFD700] font-imperial italic tracking-wider"
         style="text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3), 0 0 15px rgba(255, 215, 0, 0.8);">
-        Visual Journey
+        Voyage Visuel
     </h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-        <img src="/images/test.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/images/test.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/images/test.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/images/test.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/images/test.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/images/test.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/histoire-2.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/tour-1.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/escalier-3.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/chambres-royales-3.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/illumination-2.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/legacy.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
     </div>
     <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0] z-10 bg-[#262626]">
         <svg viewBox="0 0 1440 50" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -140,7 +140,7 @@
                 <img src="images/candlelight-1.png" alt="Visite aux Chandelles" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explorer</button>
             </div>
         </a>
         <!-- Card 2 -->
@@ -153,7 +153,7 @@
                 <img src="images/concert-2.png" alt="Concert Baroque" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explorer</button>
             </div>
         </a>
         <!-- Card 3 -->
@@ -166,7 +166,7 @@
                 <img src="images/illumination-1.png" alt="Illumination des Jardins" class="w-full h-auto transition duration-300 group-hover:opacity-70" />
             </div>
             <div class="absolute bottom-6 left-1/2 transform -translate-x-1/2 opacity-0 group-hover:opacity-100 transition duration-300">
-                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explore</button>
+                <button class="bg-yellow-400 text-neutral-900 px-6 py-2 rounded-full text-lg shadow-md">Explorer</button>
             </div>
         </a>
     </div>
@@ -177,8 +177,8 @@
 
 <!-- Quote Section -->
 <section class="bg-[#800020] py-28 text-center px-6 md:px-20">
-    <blockquote class="max-w-4xl mx-auto text-6xl md:text-7xl italic text-yellow-300 font-imperial">
-        "Where history whispers in golden halls."
+    <blockquote class="max-w-5xl mx-auto text-6xl md:text-7xl italic text-yellow-300 font-imperial">
+        "Où l'histoire murmure dans des salles dorées."
     </blockquote>
 </section>
 
