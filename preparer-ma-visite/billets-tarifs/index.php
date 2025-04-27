@@ -1,6 +1,6 @@
 <?php
 $page_title = "Billets & tarifs";
-include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
+include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 <section class="pt-12 mb-12 text-center">
   <h1 class="text-[#FFD700] font-imperial italic text-8xl">Billets & Tarifs</h1>
 </section>
@@ -60,4 +60,4 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 </section>
 
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>

@@ -1,6 +1,6 @@
 <?php
 $page_title = "Conditions de Conduite";
-include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
+include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 <section id="terms-of-conduct" class="py-20 px-4 fade-in bg-[#262626]">
   <div class="max-w-4xl mx-auto text-center">
     <h1 class="text-8xl font-imperial italic text-[#FFD700] mb-12">Conditions de Conduite</h1>
@@ -32,7 +32,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
       <p class="text-lg leading-8 text-gray-300 text-justify mb-8">
         Le non-respect de ces conditions peut entraîner l'expulsion des lieux. Si vous avez des questions, veuillez nous contacter via
-        <a href="/#contacts" class="text-[#FFD700] underline hover:text-yellow-300">notre formulaire de contact</a>.
+        <a href="/whitepage/2/#contacts" class="text-[#FFD700] underline hover:text-yellow-300">notre formulaire de contact</a>.
       </p>
     </div>
   </div>
@@ -79,7 +79,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
       <h3 class="text-3xl font-semibold text-[#FFD700] mb-2">Contact</h3>
       <p class="text-lg leading-8 text-justify mb-8">
         Si vous avez des questions concernant ces conditions générales, veuillez nous contacter via
-        <a href="/#contacts" class="text-[#FFD700] underline hover:text-yellow-300">notre formulaire de contact</a>.
+        <a href="/whitepage/2/#contacts" class="text-[#FFD700] underline hover:text-yellow-300">notre formulaire de contact</a>.
       </p>
     </div>
   </div>
@@ -89,4 +89,4 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
 
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>

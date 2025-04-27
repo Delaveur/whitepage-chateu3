@@ -1,6 +1,6 @@
 <?php
 $page_title = "L'histoire";
-include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
+include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 <section class="px-6 md:px-20 py-20 space-y-16 text-xl">
 
   <h1 class="text-[#FFD700] font-imperial italic text-5xl md:text-8xl text-center mb-16">
@@ -9,7 +9,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
   <!-- 1 -->
   <div class="bg-[#800020] text-white rounded-xl overflow-hidden md:flex md:items-center md:gap-10">
-    <img src="/images/histoire-1.png" alt="Block 1" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
+    <img src="/whitepage/2/images/histoire-1.png" alt="Block 1" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
     <div class="p-6 md:p-10 space-y-4 md:w-1/2">
       <h2 class="text-4xl md:text-6xl text-[#FFD700] font-imperial italic mb-4">Les Origines</h2>
       <p>
@@ -23,7 +23,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
   <!-- 2 -->
   <div class="bg-[#262626] text-white rounded-xl overflow-hidden md:flex md:flex-row-reverse md:items-center md:gap-10">
-    <img src="/images/histoire-2.png" alt="Block 2" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
+    <img src="/whitepage/2/images/histoire-2.png" alt="Block 2" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
     <div class="p-6 md:p-10 space-y-4 md:w-1/2">
       <h2 class="text-4xl md:text-6xl text-[#FFD700] font-imperial italic mb-4">Âge d'Or</h2>
       <p>
@@ -37,7 +37,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
   <!-- 3 -->
   <div class="bg-[#800020] text-white rounded-xl overflow-hidden md:flex md:items-center md:gap-10">
-    <img src="/images/histoire-3.png" alt="Block 3" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
+    <img src="/whitepage/2/images/histoire-3.png" alt="Block 3" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
     <div class="p-6 md:p-10 space-y-4 md:w-1/2">
       <h2 class="text-4xl md:text-6xl text-[#FFD700] font-imperial italic mb-4">Évolution et Héritage</h2>
       <p>
@@ -51,4 +51,4 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
 </section>
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>

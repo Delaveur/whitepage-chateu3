@@ -1,6 +1,6 @@
 <?php
 $page_title = "Visite aux Chandelles";
-include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
+include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 
 <section class="px-6 md:px-20 py-20 space-y-16 text-xl">
 
@@ -10,7 +10,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
   <!-- 1 -->
   <div class="bg-[#800020] text-white rounded-xl overflow-hidden md:flex md:items-center md:gap-10">
-    <img src="/images/candlelight-1.png" alt="Chandelles 1" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
+    <img src="/whitepage/2/images/candlelight-1.png" alt="Chandelles 1" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
     <div class="p-6 md:p-10 space-y-4 md:w-1/2">
       <h2 class="text-4xl md:text-6xl text-[#FFD700] font-imperial italic mb-4">Lumière et Ombre</h2>
       <p>
@@ -24,7 +24,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
   <!-- 2 -->
   <div class="bg-[#262626] text-white rounded-xl overflow-hidden md:flex md:flex-row-reverse md:items-center md:gap-10">
-    <img src="/images/candlelight-2.png" alt="Chandelles 2" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
+    <img src="/whitepage/2/images/candlelight-2.png" alt="Chandelles 2" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
     <div class="p-6 md:p-10 space-y-4 md:w-1/2">
       <h2 class="text-4xl md:text-6xl text-[#FFD700] font-imperial italic mb-4">Les Couloirs du Silence</h2>
       <p>
@@ -38,7 +38,7 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
   <!-- 3 -->
   <div class="bg-[#800020] text-white rounded-xl overflow-hidden md:flex md:items-center md:gap-10">
-    <img src="/images/candlelight-3.png" alt="Chandelles 3" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
+    <img src="/whitepage/2/images/candlelight-3.png" alt="Chandelles 3" class="w-full md:w-1/2 h-64 object-cover md:h-auto">
     <div class="p-6 md:p-10 space-y-4 md:w-1/2">
       <h2 class="text-4xl md:text-6xl text-[#FFD700] font-imperial italic mb-4">Une Expérience Inoubliable</h2>
       <p>
@@ -52,4 +52,4 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 
 </section>
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>

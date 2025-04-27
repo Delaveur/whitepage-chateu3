@@ -5,9 +5,9 @@
     <meta http-equiv="Content-Language" content="fr">
     <meta name="language" content="fr">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Explore Le Grand Palais, a stunning historical site offering captivating exhibitions and insights into art, culture, and history in France. Visit us for an enriching experience." />
-    <meta name="keywords" content="Le Grand Palais, palace, Versailles, art exhibitions, cultural heritage, history, France, museum, art, cultural site, historical site" />
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <meta name="description" content="Découvrez Le Grand Palais, un site historique remarquable offrant des expositions captivantes et des perspectives uniques sur l’art, la culture et le patrimoine en France." />
+    <meta name="keywords" content="Le Grand Palais, palais, art, expositions, patrimoine culturel, histoire, France, musée, site historique, culture" />
+    <link rel="icon" href="/whitepage/2/favicon.ico" type="image/x-icon">
     <title><?php echo isset($page_title) ? htmlspecialchars($page_title) : 'Le Grand Palais'; ?></title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter&display=swap" rel="stylesheet">
@@ -113,15 +113,15 @@
     <nav class="bg-[#1a1a1a] shadow-md text-white font-serif">
         <div class="container mx-auto px-4">
             <div class="flex justify-between items-center h-16">
-                <a href="/" class="text-4xl font-bold tracking-wide italic font-imperial text-[#FFD700]">Le Grand Palais</a>
+                <a href="/whitepage/2/" class="text-4xl font-bold tracking-wide italic font-imperial text-[#FFD700]">Le Grand Palais</a>
                 <!-- Desktop menu -->
                 <div class="hidden md:flex space-x-8 items-center text-base">
-                    <a href="/decouvrir/histoire/" class="hover:text-[#FFD700] transition-colors">Histoire</a>
-                    <a href="/preparer-ma-visite/" class="hover:text-[#FFD700] transition-colors">Préparer ma visite</a>
-                    <a href="/preparer-ma-visite/informations-pratiques/" class="hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
-                    <a href="/preparer-ma-visite/billets-tarifs/" class="hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
-                    <a href="/actualites/agenda-chateau-versailles/" class="hover:text-[#FFD700] transition-colors">Agenda</a>
-                    <a href="/contact-us/" class="hover:text-[#FFD700] transition-colors">Contacts</a>
+                    <a href="/whitepage/2/decouvrir/histoire/" class="hover:text-[#FFD700] transition-colors">Histoire</a>
+                    <a href="/whitepage/2/preparer-ma-visite/" class="hover:text-[#FFD700] transition-colors">Préparer ma visite</a>
+                    <a href="/whitepage/2/preparer-ma-visite/informations-pratiques/" class="hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
+                    <a href="/whitepage/2/preparer-ma-visite/billets-tarifs/" class="hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
+                    <a href="/whitepage/2/actualites/agenda-chateau-versailles/" class="hover:text-[#FFD700] transition-colors">Agenda</a>
+                    <a href="/whitepage/2/contact-us/" class="hover:text-[#FFD700] transition-colors">Contacts</a>
                 </div>
                 <!-- Mobile button -->
                 <button
@@ -147,22 +147,22 @@
         </div>
         <!-- Mobile menu -->
         <div id="mobile-menu" class="md:hidden hidden absolute w-full bg-[#1a1a1a] shadow-lg py-2 z-40 text-white">
-            <a href="/decouvrir/histoire/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Histoire</a>
-            <a href="/preparer-ma-visite/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Préparer ma visite</a>
-            <a href="/preparer-ma-visite/informations-pratiques/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
-            <a href="/preparer-ma-visite/billets-tarifs/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
-            <a href="/actualites/agenda-chateau-versailles/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Agenda</a>
-            <a href="/contact-us/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Contacts</a>
+            <a href="/whitepage/2/decouvrir/histoire/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Histoire</a>
+            <a href="/whitepage/2/preparer-ma-visite/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Préparer ma visite</a>
+            <a href="/whitepage/2/preparer-ma-visite/informations-pratiques/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Informations Pratiques</a>
+            <a href="/whitepage/2/preparer-ma-visite/billets-tarifs/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Billets & Tarifs</a>
+            <a href="/whitepage/2/actualites/agenda-chateau-versailles/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Agenda</a>
+            <a href="/whitepage/2/contact-us/" class="block px-4 py-3 hover:bg-[#262626] hover:text-[#FFD700] transition-colors">Contacts</a>
         </div>
     </nav>
     <!-- Secondary Navigation -->
     <nav class="bg-[#800020] text-yellow-200 w-full px-4 py-4">
         <div class="max-w-screen-xl mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 text-center text-sm font-medium tracking-wide">
-            <a href="/chambres/" class="hover:text-white transition-colors">Chambres Royales</a>
-            <a href="/tours/" class="hover:text-white transition-colors">Tours Intemporelles</a>
-            <a href="/escalier/" class="hover:text-white transition-colors">Le Grand Escalier</a>
-            <a href="/chandelles/" class="hover:text-white transition-colors">Visite aux Chandelles</a>
-            <a href="/baroque/" class="hover:text-white transition-colors">Concert Baroque</a>
-            <a href="/jardins/" class="hover:text-white transition-colors">Illumination des Jardins</a>
+            <a href="/whitepage/2/chambres/" class="hover:text-white transition-colors">Chambres Royales</a>
+            <a href="/whitepage/2/tours/" class="hover:text-white transition-colors">Tours Intemporelles</a>
+            <a href="/whitepage/2/escalier/" class="hover:text-white transition-colors">Le Grand Escalier</a>
+            <a href="/whitepage/2/chandelles/" class="hover:text-white transition-colors">Visite aux Chandelles</a>
+            <a href="/whitepage/2/baroque/" class="hover:text-white transition-colors">Concert Baroque</a>
+            <a href="/whitepage/2/jardins/" class="hover:text-white transition-colors">Illumination des Jardins</a>
         </div>
     </nav>

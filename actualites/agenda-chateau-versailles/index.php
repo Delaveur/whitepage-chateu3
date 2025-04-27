@@ -1,6 +1,6 @@
 <?php
 $page_title = "L’agenda du château";
-include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
+include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 <section class="text-center text-[#FFD700] font-imperial italic text-8xl pt-12 mb-12">
   L’agenda du château
 </section>
@@ -60,4 +60,4 @@ include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 </section>
 
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>
