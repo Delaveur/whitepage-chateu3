@@ -1,6 +1,6 @@
 <?php
 $page_title = "Préparer ma visite";
-include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
+include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 <!-- Заголовок страницы -->
 <h1 class="text-[#FFD700] font-imperial italic text-8xl text-center pt-12 mb-12">Préparer ma visite</h1>
 
@@ -37,4 +37,4 @@ include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 </section>
 
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>

@@ -1,14 +1,14 @@
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 <!-- Hero Section -->
 <section class="relative h-screen flex items-center justify-center text-center">
     <video class="absolute inset-0 w-full h-full object-cover z-0" autoplay muted loop>
-        <source src="/whitepage/2/images/main.mp4" type="video/mp4" />
+        <source src="/images/main.mp4" type="video/mp4" />
     </video>
     <div class="absolute inset-0 bg-black bg-opacity-50 z-10"></div>
     <div class="z-20 px-4">
         <h1 class="text-4xl md:text-7xl font-bold mb-6">Élégance Intemporelle</h1>
         <p class="text-lg md:text-2xl mb-8">Un voyage à travers la grandeur et l’héritage</p>
-        <a href="/whitepage/2/decouvrir/histoire/" class="inline-block px-6 py-3 bg-yellow-500 text-neutral-900 font-semibold rounded-xl transition hover:bg-yellow-400">Découvrir Maintenant</a>
+        <a href="/decouvrir/histoire/" class="inline-block px-6 py-3 bg-yellow-500 text-neutral-900 font-semibold rounded-xl transition hover:bg-yellow-400">Découvrir Maintenant</a>
     </div>
     <!-- SVG Transition at bottom of Hero -->
     <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0] z-10">
@@ -28,7 +28,7 @@
     </h2>
     <div class="max-w-5xl mx-auto grid md:grid-cols-2 gap-12 items-center pb-10">
         <p class="text-lg leading-relaxed">Niché au cœur de l'histoire intemporelle, notre palais offre un aperçu de la grandeur d'une époque révolue. Parcourez ses couloirs et vivez l'art, l'architecture et l'atmosphère autrefois réservés à la royauté.</p>
-        <img src="/whitepage/2/images/legacy.png" alt="Interior" class="rounded-2xl shadow-lg" />
+        <img src="/images/legacy.png" alt="Interior" class="rounded-2xl shadow-lg" />
     </div>
     <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0] z-10 bg-[#800020]">
         <svg viewBox="0 0 1440 50" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -46,12 +46,12 @@
         Voyage Visuel
     </h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-        <img src="/whitepage/2/images/histoire-2.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/whitepage/2/images/tour-1.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/whitepage/2/images/escalier-3.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/whitepage/2/images/chambres-royales-3.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/whitepage/2/images/illumination-2.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
-        <img src="/whitepage/2/images/legacy.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/histoire-2.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/tour-1.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/escalier-3.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/chambres-royales-3.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/illumination-2.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
+        <img src="/images/legacy.png" class="rounded-xl transform hover:scale-105 transition duration-300 grayscale-[0.25] hover:grayscale-0 hover:cursor-pointer shadow-md" />
     </div>
     <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0] z-10 bg-[#262626]">
         <svg viewBox="0 0 1440 50" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -69,7 +69,7 @@
     </h2>
     <div class="grid md:grid-cols-3 gap-8">
         <!-- Card 1 -->
-        <a href="/whitepage/2/chambres/" class="relative group cursor-pointer flex flex-col">
+        <a href="/chambres/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-neutral-800 rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Chambres Royales</h3>
                 <p>Des espaces luxueux où la royauté vivait et régnait. Chaque chambre reflète l'élégance et la grandeur, avec des détails architecturaux qui incarnent la puissance et le raffinement de l'époque royale.</p>
@@ -83,7 +83,7 @@
         </a>
 
         <!-- Card 2 -->
-        <a href="/whitepage/2/tours/" class="relative group cursor-pointer flex flex-col">
+        <a href="/tours/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-neutral-800 rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Tours Intemporelles</h3>
                 <p>Des tours majestueuses qui défient le temps, offrant des vues impressionnantes et représentant l'innovation architecturale de chaque époque. Chaque tour est un témoignage de la maîtrise de l'architecture à travers les âges.</p>
@@ -97,7 +97,7 @@
         </a>
 
         <!-- Card 3 -->
-        <a href="/whitepage/2/escalier/" class="relative group cursor-pointer flex flex-col">
+        <a href="/escalier/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-neutral-800 rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Le Grand Escalier</h3>
                 <p>Une ascension noble, où chaque pas résonne des échos de l'histoire. Cet escalier a été témoin de nombreux moments de grandeur et de triomphe, représentant l'ingéniosité architecturale de son époque.</p>
@@ -131,7 +131,7 @@
     </h2>
     <div class="grid md:grid-cols-3 gap-8">
         <!-- Card 1 -->
-        <a href="/whitepage/2/chandelles/" class="relative group cursor-pointer flex flex-col">
+        <a href="/chandelles/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Visite aux Chandelles</h3>
                 <p>Pénétrez dans le palais à la tombée de la nuit et découvrez ses mystères à la lueur vacillante des bougies.</p>
@@ -144,7 +144,7 @@
             </div>
         </a>
         <!-- Card 2 -->
-        <a href="/whitepage/2/baroque/" class="relative group cursor-pointer flex flex-col">
+        <a href="/baroque/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Concert Baroque</h3>
                 <p>Savourez la musique classique telle qu’elle était destinée à être entendue – dans les majestueuses salles d’antan.</p>
@@ -157,7 +157,7 @@
             </div>
         </a>
         <!-- Card 3 -->
-        <a href="/whitepage/2/jardins/" class="relative group cursor-pointer flex flex-col">
+        <a href="/jardins/" class="relative group cursor-pointer flex flex-col">
             <div class="p-6 bg-[#800020] rounded-t-xl shadow-lg flex-grow">
                 <h3 class="text-2xl mb-2 text-yellow-400">Illumination des Jardins</h3>
                 <p>Flânez à travers des allées illuminées et des fontaines scintillantes dans une mise en scène nocturne enchanteresse.</p>
@@ -186,4 +186,4 @@
 <div class="w-full h-1 bg-gradient-to-r from-[#FFD700] to-[#FF6600]"></div>
 
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>

@@ -1,6 +1,6 @@
 <?php
 $page_title = "Politique de Confidentialité";
-include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
+include($_SERVER["DOCUMENT_ROOT"] . "/inc/header.php"); ?>
 <section id="privacy-policy" class="py-20 px-4 fade-in bg-[#262626]">
   <div class="max-w-4xl mx-auto text-center">
     <h1 class="text-8xl font-imperial italic text-[#FFD700] mb-12">Politique de Confidentialité</h1>
@@ -31,9 +31,9 @@ include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 
       <p class="text-lg leading-8 text-gray-300 text-justify mb-8">
         En utilisant nos services, vous consentez à cette politique de confidentialité. Si vous avez des préoccupations, n'hésitez pas à nous contacter à
-        <a href="/whitepage/2mailto:consultation@ittechservices.com" class="text-[#FFD700] underline hover:text-yellow-300">consultation@ittechservices.com</a>
+        <a href="mailto:consultation@ittechservices.com" class="text-[#FFD700] underline hover:text-yellow-300">consultation@ittechservices.com</a>
         ou à remplir notre
-        <a href="/whitepage/2/#contacts" class="text-[#FFD700] underline hover:text-yellow-300">formulaire de contact</a>.
+        <a href="/#contacts" class="text-[#FFD700] underline hover:text-yellow-300">formulaire de contact</a>.
       </p>
     </div>
   </div>
@@ -42,4 +42,4 @@ include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/header.php"); ?>
 
 
 
-<?php include($_SERVER["DOCUMENT_ROOT"] . "/whitepage/2/inc/footer.php");  ?>
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/inc/footer.php");  ?>
